@@ -1,6 +1,0 @@
-CREATE SCHEMA [Sales2]
-    AUTHORIZATION [dbo];
-
-
-GO
-
