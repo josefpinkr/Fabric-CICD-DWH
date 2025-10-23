@@ -32,11 +32,26 @@
             ]
           },
           {
-            "name": "Label",
+            "name": "UserName",
             "dataType": "string",
-            "sourceColumn": "Label",
+            "sourceColumn": "UserName",
             "sourceProviderType": "varchar",
-            "sourceLineageTag": "Label",
+            "sourceLineageTag": "UserName",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "CreatedAt",
+            "dataType": "dateTime",
+            "sourceColumn": "CreatedAt",
+            "formatString": "General Date",
+            "sourceProviderType": "datetime2",
+            "sourceLineageTag": "CreatedAt",
             "summarizeBy": "none",
             "annotations": [
               {
