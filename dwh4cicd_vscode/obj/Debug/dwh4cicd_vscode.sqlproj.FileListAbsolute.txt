@@ -1,0 +1,12 @@
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\bin\Debug\dwh4cicd_vscode.dacpac
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\bin\Debug\dwh4cicd_vscode.deps.json
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\bin\Debug\dwh4cicd_vscode.dll
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\bin\Debug\dwh4cicd_vscode.pdb
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\obj\Debug\dwh4cicd_vscode.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\obj\Debug\dwh4cicd_vscode.sourcelink.json
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\obj\Debug\Model.xml
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\obj\Debug\refactor.xml
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\obj\Debug\postdeploy.sql
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\obj\Debug\predeploy.sql
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\obj\Debug\dwh4cicd_vscode.dll
+c:\Users\Josef.Pinkr\VSCodeProjects\Fabric-CICD-DWH-1\dwh4cicd_vscode\obj\Debug\dwh4cicd_vscode.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9NZ94STtPc=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Josef.Pinkr\\VSCodeProjects\\Fabric-CICD-DWH-1\\dwh4cicd_vscode\\dwh4cicd_vscode.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josef.Pinkr\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Josef.Pinkr\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.3\\microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
