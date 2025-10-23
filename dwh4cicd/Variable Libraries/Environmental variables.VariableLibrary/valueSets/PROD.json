@@ -1,0 +1,26 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/valueSet/1.0.0/schema.json",
+  "name": "PROD",
+  "variableOverrides": [
+    {
+      "name": "Env",
+      "value": "PROD"
+    },
+    {
+      "name": "TableAction",
+      "value": "append"
+    },
+    {
+      "name": "WorkspaceId",
+      "value": "93536edf-45ae-4a78-bad6-2ff9b827e848"
+    },
+    {
+      "name": "SrcLkhId",
+      "value": "fafd42fa-046d-4dba-aa95-88a34485ba3e"
+    },
+    {
+      "name": "DestLkhId",
+      "value": "868a329b-f65a-4ebe-ae91-0ed8e389fbbe"
+    }
+  ]
+}
