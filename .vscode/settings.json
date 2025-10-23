@@ -1,5 +1,6 @@
 {
     "dataworkspace.excludedProjects": [
-        "dwh4cicd_VScode/dwh4cicd_VScode.sqlproj"
+        "dwh4cicd_VScode/dwh4cicd_VScode.sqlproj",
+        "dwh4cicd_DatabaseProject/dwh4cicd_DatabaseProject.sqlproj"
     ]
 }
